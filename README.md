@@ -24,4 +24,5 @@ Sistema para revisão de conteúdo
 
 ## Tarefas
  - Criar wireframes para algumas telas
+   - Sugestão: https://wireframe.cc/U6e1St
  - Configurar o ambiente com XAMP, GIT e VSCODE 
