@@ -3,7 +3,7 @@ Sistema para revisão de conteúdo
 
 ## Lista de Funcionalidades
 
-* [ ] Configurar o ambiente com XAMP, GIT e VSCODE
+* [x] Configurar o ambiente com XAMP, GIT e VSCODE
 * [ ] Criar a tela inicial do site para explicar a teoria sobre a revisão a partir da revisão bibliográfica com um botão para redirecionar a outra tela com mais detalhes sobre o tema;
 * [ ] Tela para cadastro do usuário com `id, nome, email, senha e confirmação de senha`;
   * [ ] Permitir que o usuário informe os assuntos que tem maior interesse em revisar;
